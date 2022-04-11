@@ -1,2 +1,2 @@
-# Newsletter_signup_webapp
+# Newsletter Signup Web
 newsletter sign up webpage using express.js
